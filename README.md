@@ -9,6 +9,8 @@
 - [Peripherals(GPIO)](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
 - [Overview of Components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board/)
 - [Interfacing Peripherals](https://www.maven-silicon.com/blog/interfacing-peripherals-with-microcontrollers-a-hands-on-guide/)
+- [9 Essential Microcontroller Peripherals](https://embeddedinventor.com/9-essential-microcontroller-peripherals-explained/)
+- [Embedded Software Engineering 101](https://embedded.fm/blog/ese101)
 
 ---
 
@@ -16,8 +18,9 @@
 - [Protocols](https://medium.com/geekculture/microcontroller-connection-protocols-w1-i2c-spi-uart-7625ad013e60)
 - [UART Example](https://docs.arduino.cc/micropython/communication/uart/)
 - [UART Everything](https://deepbluembedded.com/arduino-uart-example-tutorial/)
-
+- [I2C, SPI, UART](https://www.parlezvoustech.com/en/comparaison-protocoles-communication-i2c-spi-uart/)
 ---
+
 
 ## MPU6050 IMU
 - [Usage](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)
@@ -29,6 +32,8 @@
 ## Data Storage
 - [EEPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
 - [EEPROM Examples](https://docs.arduino.cc/learn/programming/eeprom-guide/)
+- [Flash Memory](https://www.youtube.com/watch?v=r2KaVfSH884)
+- 
 
 ---
 
